@@ -1,4 +1,4 @@
-package segunda.temporada.episidioDois;
+package segunda.temporada.episodioDois;
 
 public class Livro {
     private String titulo;
