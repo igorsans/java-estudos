@@ -1,3 +1,5 @@
+package primeira.Temporada;
+
 import java.util.Scanner;
 
 public class Tabuada {

@@ -1,4 +1,4 @@
-package segundaTemporada;
+package segunda.temporada.episodioUm;
 
 public class testes {
 

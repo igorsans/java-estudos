@@ -1,3 +1,5 @@
+package primeira.Temporada;
+
 import java.util.Random;
 import java.util.Scanner;
 
@@ -5,7 +7,7 @@ public class Guess {
     public static void main(String[] args) {
         Scanner leitura = new Scanner(System.in);
         int meta = new Random().nextInt(100);
-        System.out.println("Boas vindas ao jogo Guess! tente advinhar o numero entre 0 e 100!");
+        System.out.println("Boas vindas ao jogo primeira.Temporada.Guess! tente advinhar o numero entre 0 e 100!");
         int numeroDeTentativas = 0;
         int resposta = leitura.nextInt();
 
