@@ -1,4 +1,4 @@
-package terceira.Temporada;
+package terceira.Temporada.episodioUm;
 
 import java.util.ArrayList;
 

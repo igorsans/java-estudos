@@ -1,4 +1,4 @@
-package terceira.Temporada;
+package terceira.Temporada.episodioUm;
 
 public class Pessoa {
     private String nome;
